@@ -1,7 +1,28 @@
-## Hi there 👋
+<h1>Hi, I'm Adesola! <br/><a href="https://github.com/joshmadakor1">Network admin</a>, 
+
+<h2>👨‍💻 Cyber Security Projects:</h2>
+
+- <b>[Small Business InfoSec Policy](https://docs.google.com/document/d/11EPIoFzWbULIONAcfQM--Q7qSIf4zkrzEhP6cHcJCrc/edit?tab=t.0)</b>
+  
+ - <b>[Daily Threat Intel](https://docs.google.com/document/d/1ymihAym1IX34Ac2wAI2Yaiye-4DhPq1CmzO_LnPrPxI/edit?tab=t.uv2wzsrw6xnk) </b><b>
+  - <b>[Mock Audit and Risk Assessment](https://docs.google.com/spreadsheets/d/1gK8M8Ach5keoDxfjDU4USYZDVQQTbpJw/edit?gid=632935606#gid=632935606) </b><b> 
+
+
+
+<h2> 📝 Certifications</h2>
+
+- [CompTIA Sec+](https://www.certmetrics.com/comptia/electronic_certificate.aspx?cert=76F071F0F0222AA2E665D636867805DEOABED6687971288CBFF6B4F2299FBFDB3)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/%F0%9F%92%BBadesola-amzat-3043b71b2
 
 <!--
-**DesholaAmzat/DesholaAmzat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

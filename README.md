@@ -2,10 +2,13 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
+- <b>[Active Directory Home Lab](https://github.com/DesholaAmzat/Active-Directory-Lab)</b>
 - <b>[Small Business InfoSec Policy](https://docs.google.com/document/d/11EPIoFzWbULIONAcfQM--Q7qSIf4zkrzEhP6cHcJCrc/edit?tab=t.0)</b>
   
  - <b>[Daily Threat Intel](https://docs.google.com/document/d/1ymihAym1IX34Ac2wAI2Yaiye-4DhPq1CmzO_LnPrPxI/edit?tab=t.uv2wzsrw6xnk) </b><b>
-  - <b>[Mock Audit and Risk Assessment](https://docs.google.com/spreadsheets/d/1gK8M8Ach5keoDxfjDU4USYZDVQQTbpJw/edit?gid=632935606#gid=632935606) </b><b> 
+  - <b>[Mock Audit and Risk Assessment](https://docs.google.com/spreadsheets/d/1gK8M8Ach5keoDxfjDU4USYZDVQQTbpJw/edit?gid=632935606#gid=632935606) </b>
+  - <b>[NIST CSF 2.0 Rosetta Stone](https://docs.google.com/spreadsheets/d/1lx_Jg14SDAxrwaNRCmO-bIVwxq_NcZznXR0Xau1xAxE/edit?usp=sharing)</b>
+
 
 
 

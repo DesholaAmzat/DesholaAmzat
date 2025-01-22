@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
+- <b>[Azure Sentinel SIEM Lab](https://github.com/DesholaAmzat/Splunk-Search-and-Reporting/blob/main/README.md)</b>
 - <b>[Splunk Search and Reporting Lab](https://github.com/DesholaAmzat/Splunk-Search-and-Reporting/blob/main/README.md)</b>
 - <b>[Active Directory Home Lab](https://github.com/DesholaAmzat/Active-Directory-Lab)</b>
 - <b>[Small Business InfoSec Policy](https://docs.google.com/document/d/11EPIoFzWbULIONAcfQM--Q7qSIf4zkrzEhP6cHcJCrc/edit?tab=t.0)</b>
